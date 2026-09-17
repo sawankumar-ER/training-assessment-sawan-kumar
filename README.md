@@ -128,22 +128,3 @@ Enter n: 5
  *     **
  *     *
 ```
-
----
-
-## Task 4: `task_model.py`
-
-**Description:** _<Add a brief description of the model task.>_
-
-**Run:**
-```bash
-python task_model.py
-```
-
-**Dependencies:** _<List any extra packages, e.g. `pip install -r requirements.txt`.>_
-
----
-
-## Outputs
-
-Sample runs for each task are stored in the `outputs/` folder.
